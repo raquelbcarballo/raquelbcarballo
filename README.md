@@ -8,28 +8,9 @@
   
 [raquelbc2996@gmail.com](mailto:raquelb2996@gmail.com)
 
-
-## 🎓 Educación
-
-*2014 - 2020*
-
-*Universidade de Vigo*
-
-Grado en Ingeniería electrónica industrial y automática 
-
-Formando parte del Staff en las Jornadas de Automatización Industrial (JAI)
-
-
 ## 🦸‍♀️ Tecnologías
 
-- Vue
-- HTML
-- CSS
-- JavaScript
-- C
-- C++
-- Python
-- Flutter
+Vue, HTML, CSS, JavaScript, C, C++, Python, Flutter
 
 ## Aptitudes
 
@@ -37,6 +18,14 @@ Formando parte del Staff en las Jornadas de Automatización Industrial (JAI)
 - Proactividad y aprendizaje continuo
 - Trabajo en equipo
 - Creatividad
+
+
+## 🎓 Educación
+
+*2014 - 2020*
+
+*Universidade de Vigo*
+Grado en Ingeniería electrónica industrial y automática 
 
 ## Experiencia laboral
 
